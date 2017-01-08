@@ -4,7 +4,6 @@
               android:layout_height="match_parent"
               android:background="#fff"
               android:orientation="vertical">
-
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
@@ -27,6 +26,7 @@
             android:layout_marginLeft="10dp"
             android:background="@drawable/ic_back"
             />
+
     </RelativeLayout>
 
     <ListView
